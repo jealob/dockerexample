@@ -1,0 +1,10 @@
+# Node Modules
+node_modules/
+
+#Mac OS
+.idea
+.vscode/*
+
+#Others
+.yarn
+
